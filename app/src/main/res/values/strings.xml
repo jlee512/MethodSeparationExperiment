@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MethodSeparationExperiment</string>
+    <string name="this_application_is_used_to_test_object_oriented_design_principles_in_android">This application is used to test object oriented design principles in Android</string>
+    <string name="button">Button</string>
+</resources>
